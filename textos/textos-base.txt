@@ -1,0 +1,30 @@
+/* Textos base */
+
+Cursos de Tecnologia e Negócios Digitais
+Você vai estudar, praticar, discutir e aprender em uma comunidade de inquietos e inovadores.
+
+FORMAÇÕES
+Somos a maior plataforma brasileira. Cursos de tecnologia com conteúdo 100% em português.
+
+Mobile
+iOS e Swift, Android e Kotlin, Ionic, React Native, Jogos.
+Crie aplicativos móveis para as principais plataformas, smartphones e tablets. Aprenda Android e iOS nativo ou frameworks multiplataforma como Cordova, React Native e Xamarim. Desenvolva também jogos mobile com Unity.
+
+Programação
+Lógica, Python, PHP, Java, .NET, Ruby & Rails, C, Computação, Jogos.
+Programe nas principais linguagens e plataformas. Explore plataformas como Java e .NET a fundo, além de muito conteúdo de Ruby, PHP, Python. Iniciantes são bem vindos nos cursos de lógica e JavaScript.
+
+Front-End
+HTML, CSS, JavaScript, Angular, React, jQuery.
+Desenvolva sites e webapps com HTML, CSS e JavaScript. Aprenda as boas práticas e últimas versões como ES6. Estude ferramentas e frameworks importantes como React, Angular, Webpack, jQuery e mais.
+
+COMO FUNCIONA
+Conheça todos os recursos da plataforma, onde você vai ter muito mais que 850 cursos de tecnologia.
+
+COMO SÃO OS CURSOS?
+Você vai estudar com aulas em vídeo de alta qualidade, exercícios práticos, projetos e em uma comunidade ativa e com muitas discussões. Cursos criados e produzidos por profissionais brasileiros.
+
+E SE EU FICAR COM DÚVIDAS?
+Um fórum com mais de 700 mil mensagens que não para de crescer. Você participa dessa comunidade e não fica estudando online sozinho!
+
+
