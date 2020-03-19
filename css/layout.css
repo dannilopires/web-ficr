@@ -116,3 +116,15 @@ section#comoFunciona{
     padding-top: 1em;
     padding-bottom: 1em;
 }
+
+.page-footer {
+    background-color: #2a7ae4;
+}
+
+.page-footer label{
+    color: #efefef;
+}
+
+.page-footer .footer-copyright{
+    background-color: rgba(51, 51, 51, 0.4);
+}
