@@ -18,11 +18,41 @@ body {
 section#top {
     background-color: #2a7ae4;
     height: 31em;
-
+    padding-bottom: 32px;
 }
 
-section#navbar {
-    background-color: black; 
+section#top nav{
+    background-color: rgba(13, 71, 161, 0.6);
+    padding: 1em;
+    height: 6.2em;
+}
+
+section#top nav ul li a{
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+section#top nav ul li:nth-child(3){
+    border-left: 1px solid #fff; 
+}
+
+div#info{
+    color: #fff;
+    margin-top: 3em;
+}
+
+div#info h2{
+    font-weight: 600;
+}
+
+div#info p{
+    font-size: 23px;
+    font-weight: 300;
+}
+
+.logo {
+    width: 60%;
 }
 
 .bg-top {
@@ -30,3 +60,54 @@ section#navbar {
     background-repeat: no-repeat;
     background-position: bottom right;
 }
+
+.card h6.card-title{
+    color:#0277bd;
+}
+
+.card .card-content p, .card .card-reveal p {
+    font-size: 14px!important;
+}
+
+.card .card-action a{
+    color: #26a69a!important;
+}
+
+
+.card .card-action a:hover{
+    color: #004d40!important;
+}
+
+.card .card-reveal {
+    background-color: #fafafa;
+}
+
+/*Formatação da section formações*/
+
+section#formacoes{
+    background-color: #fff;
+}
+
+section h3, h4{
+    color:#4a535a;
+    font-weight: 300;
+    text-transform: uppercase;
+    border-left: 2px solid #2a7ae4;
+    padding-left: 8px;
+}
+
+h3{
+    font-size: 2.3em;
+    font-weight: 300;
+}
+
+h4{
+    font-size: 1.3em;
+    font-weight: 800;
+}
+
+section#formacoes p{
+    font-size: 19px;
+    color: #757575;
+}
+
