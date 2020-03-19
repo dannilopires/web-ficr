@@ -65,7 +65,7 @@ div#info p{
     color:#0277bd;
 }
 
-.card .card-content p, .card .card-reveal p {
+.card .card-content p, .card .card-reveal p, section#comoFunciona .row p {
     font-size: 14px!important;
 }
 
@@ -106,8 +106,13 @@ h4{
     font-weight: 800;
 }
 
-section#formacoes p{
+section#formacoes p, section#comoFunciona p{
     font-size: 19px;
     color: #757575;
 }
 
+section#comoFunciona{
+    background-color: #e8eaf6;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
