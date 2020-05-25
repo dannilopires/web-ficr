@@ -16,29 +16,30 @@ body {
 }
 
 section#top {
-    background-color: #2a7ae4;
+    background-color: #a9aaac;
     height: 31em;
     padding-bottom: 32px;
 }
 
 section#top nav{
-    background-color: rgba(13, 71, 161, 0.6);
+    background-color: rgb(80, 80, 82);
     padding: 1em;
     height: 6.2em;
 }
 
 section#top nav ul li a{
-    font-weight: 300;
+    font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 1px;
+    color: rgb(8, 8, 8);
 }
 
-section#top nav ul li:nth-child(3){
-    border-left: 1px solid #fff; 
+section#top nav ul li:nth-child(4){
+    border-left: 1px solid rgb(8, 8, 8); 
 }
 
 div#info{
-    color: #fff;
+    color: rgb(7, 6, 6);
     margin-top: 3em;
 }
 
@@ -52,7 +53,7 @@ div#info p{
 }
 
 .logo {
-    width: 60%;
+    width: 40%;
 }
 
 .bg-top {
@@ -84,7 +85,7 @@ div#info p{
 
 /*Formatação da section formações*/
 
-section#formacoes{
+section#servicos{
     background-color: #fff;
 }
 
@@ -106,7 +107,7 @@ h4{
     font-weight: 800;
 }
 
-section#formacoes p, section#comoFunciona p{
+section#servicos p, section#comoFunciona p{
     font-size: 19px;
     color: #757575;
 }
@@ -118,7 +119,7 @@ section#comoFunciona{
 }
 
 .page-footer {
-    background-color: #2a7ae4;
+    background-color: rgb(80, 80, 82);
 }
 
 .page-footer label{
