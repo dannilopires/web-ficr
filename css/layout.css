@@ -17,18 +17,18 @@ body {
 
 section#top {
     background-color: #a9aaac;
-    height: 31em;
-    padding-bottom: 32px;
+    height: 32em;
+    padding-bottom: 34px;
 }
 
 section#top nav{
     background-color: rgb(80, 80, 82);
-    padding: 1em;
+    padding: 0.5em;
     height: 6.2em;
 }
 
 section#top nav ul li a{
-    font-weight: 400;
+    font-weight: 500;
     text-transform: uppercase;
     letter-spacing: 1px;
     color: rgb(255, 251, 251);
@@ -53,7 +53,7 @@ div#info p{
 }
 
 .logo {
-    width: 40%;
+    width: 30%;
 }
 
 .bg-top {
@@ -63,7 +63,7 @@ div#info p{
 }
 
 .card h6.card-title{
-    color:#0277bd;
+    color:#0d0d0e;
 }
 
 .card .card-content p, .card .card-reveal p, section#comoFunciona .row p {
@@ -71,7 +71,7 @@ div#info p{
 }
 
 .card .card-action a{
-    color: #26a69a!important;
+    color: rgb(80, 80, 82)!important;
 }
 
 
@@ -93,7 +93,7 @@ section h3, h4{
     color:#4a535a;
     font-weight: 300;
     text-transform: uppercase;
-    border-left: 2px solid #2a7ae4;
+    border-left: 2px solid rgb(80, 80, 82);
     padding-left: 8px;
 }
 
