@@ -1,3 +1,11 @@
+/*
+Basta instalar o mongo DB no computador onde o node for rodar,
+e o mongoose irá criar as coleções, relativas aos modelos, automaticamente, 
+assim que os dados e processos forem sendo inseridos.
+
+O nome do banco precisa ser "fast-dispatcher", as configurações de usuario e 
+senha, eu deixei padrão na hora da instalação do mongo.
+*/
 const mongoose = require('mongoose')
 
 let conn = mongoose.connection
