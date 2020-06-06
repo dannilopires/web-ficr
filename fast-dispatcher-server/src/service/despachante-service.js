@@ -1,4 +1,4 @@
-const despachante = require('../model/despachante')
+const despachante = require('../models/despachante')
 
 const Despachante = despachante.Despachante
 

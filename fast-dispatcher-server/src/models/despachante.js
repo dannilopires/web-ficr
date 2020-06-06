@@ -1,4 +1,4 @@
-const conn = require('./config/database-config')
+const conn = require('../Data/database-config')
 const mongoose = require('mongoose')
 
 const Schema = mongoose.Schema
