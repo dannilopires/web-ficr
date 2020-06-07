@@ -5,6 +5,7 @@ const bodyParser = require('body-parser')
 
 const despachanteRouter = require('./src/routes/despachante-router')
 const empresaRouter = require('./src/routes/empresa-router')
+const servicoRouter = require('./src/routes/solicitacao-servico-router')
 
 //Iniciando o App
 const app = express()
@@ -16,5 +17,6 @@ app.use(cors())
 
 app.use('/rest/despachante', despachanteRouter)
 app.use('/rest/empresa', empresaRouter)
+app.use('/rest/servico', servicoRouter)
 
 app.listen(9000, () => console.log('Express started at http://localhost:9000'))
